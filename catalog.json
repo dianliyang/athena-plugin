@@ -7,6 +7,7 @@
       "name": "Kiel UnivIS Courses",
       "description": "Syncs courses, schedules, and exam dates from Kiel UnivIS into Athena.",
       "author": "Athena",
+      "homepage": "https://github.com/dianliyang/kiel-univis-athena-plugin",
       "tags": ["courses", "university", "kiel"],
       "releaseTag": "v0.1.2"
     },
@@ -16,8 +17,8 @@
       "name": "Moodle Sync",
       "description": "Sync courses, files, and deadlines from Moodle.",
       "author": "Athena",
-      "tags": ["courses", "moodle", "learning"],
-      "releaseTag": "v0.1.0"
+      "homepage": "https://github.com/dianliyang/moodle-athena-plugin",
+      "tags": ["courses", "moodle", "learning"]
     },
     {
       "id": "openolat-sync",
@@ -25,8 +26,8 @@
       "name": "OpenOlat Sync",
       "description": "Sync courses and learning materials from OpenOlat.",
       "author": "Athena",
-      "tags": ["courses", "openolat", "learning"],
-      "releaseTag": "v0.1.0"
+      "homepage": "https://github.com/dianliyang/openolat-athena-plugin",
+      "tags": ["courses", "openolat", "learning"]
     }
   ]
 }
