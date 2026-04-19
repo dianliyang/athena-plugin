@@ -9,6 +9,24 @@
       "author": "Athena",
       "tags": ["courses", "university", "kiel"],
       "releaseTag": "v0.1.2"
+    },
+    {
+      "id": "moodle-sync",
+      "repo": "dianliyang/moodle-athena-plugin",
+      "name": "Moodle Sync",
+      "description": "Sync courses, files, and deadlines from Moodle.",
+      "author": "Athena",
+      "tags": ["courses", "moodle", "learning"],
+      "releaseTag": "v0.1.0"
+    },
+    {
+      "id": "openolat-sync",
+      "repo": "dianliyang/openolat-athena-plugin",
+      "name": "OpenOlat Sync",
+      "description": "Sync courses and learning materials from OpenOlat.",
+      "author": "Athena",
+      "tags": ["courses", "openolat", "learning"],
+      "releaseTag": "v0.1.0"
     }
   ]
 }
