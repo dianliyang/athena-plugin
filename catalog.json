@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "kiel-univis-courses",
+      "repo": "dianliyang/kiel-univis-athena-plugin",
+      "name": "Kiel UnivIS Courses",
+      "description": "Syncs courses, schedules, and exam dates from Kiel UnivIS into Athena.",
+      "author": "Athena",
+      "tags": ["courses", "university", "kiel"],
+      "releaseTag": "v0.1.2"
+    }
+  ]
+}
