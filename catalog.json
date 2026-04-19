@@ -18,7 +18,8 @@
       "description": "Sync courses, files, and deadlines from Moodle.",
       "author": "Athena",
       "homepage": "https://github.com/dianliyang/moodle-athena-plugin",
-      "tags": ["courses", "moodle", "learning"]
+      "tags": ["courses", "moodle", "learning"],
+      "releaseTag": "v0.2.0"
     },
     {
       "id": "openolat-sync",
